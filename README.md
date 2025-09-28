@@ -28,14 +28,12 @@ This project was built during my internship at **STB Bank**, with the goal of de
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Framework**: [Ionic](https://ionicframework.com/) + [Angular](https://angular.io/)  
 - **Languages**: TypeScript, HTML, SCSS  
 - **Configuration**: JSON & environment files  
 - **Testing**: Jasmine/Karma (Angular default testing tools)  
 
----
 
-## 📂 Project Structure  
 
