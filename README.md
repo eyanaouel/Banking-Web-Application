@@ -1,44 +1,41 @@
-# STB Bank Application
+# Banking Web Application  
 
-## Overview
+A modern **banking web application** developed with **Ionic + Angular**, designed to simulate essential digital banking services such as login, deposits, withdrawals, transfers, and profile management.  
 
-STB Bank is an Angular and Ionic-based application that provides banking functionalities. This project aims to deliver a user-friendly interface for banking operations.
+This project was built during my internship at **STB Bank**, with the goal of delivering an intuitive, responsive, and scalable front-end platform for financial services.  
 
-## Technologies Used
+---
 
-- **SCSS**: 42.5%
-- **TypeScript**: 31.1%
-- **HTML**: 24%
-- **JavaScript**: 2.4%
+## Features  
 
-## Prerequisites
+- **User Authentication**  
+  Secure login page to simulate customer authentication.  
 
-- Node.js (version 14.x or later)
-- npm (version 6.x or later)
-- Angular CLI (version 12.x or later)
-- Ionic CLI (version 6.x or later)
+- **Deposit Module**  
+  Allows users to deposit money into their account.  
 
-## Installation
+- **Withdrawal Module**  
+  Provides functionality to withdraw funds safely.  
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/tekteku/STB-Bank.git
-   cd STB-Bank
-   ```
+- **Transfer Module**  
+  Enables transferring money between accounts.  
 
+- **Profile Management**  
+  Page to view and manage customer information.  
 
-   Ionic CLI: 7.2.0
-Ionic Framework: @ionic/angular 8.4.1
-@angular-devkit/build-angular: 18.2.12
-@angular-devkit/schematics: 18.2.12
-@angular/cli: 18.2.12
-@ionic/angular-toolkit: 11.0.1
-Utility:
+- **Responsive UI**  
+  Built with Ionic components to ensure mobile-friendly design.  
 
-cordova-res: 0.15.4
-native-run: 2.0.1
-System:
+---
 
-NodeJS: v18.19.0
-npm: 8.19.4
-OS: Windows 10
+## 🛠️ Tech Stack  
+
+- **Framework**: [Ionic](https://ionicframework.com/) + [Angular](https://angular.io/)  
+- **Languages**: TypeScript, HTML, SCSS  
+- **Configuration**: JSON & environment files  
+- **Testing**: Jasmine/Karma (Angular default testing tools)  
+
+---
+
+## 📂 Project Structure  
+
